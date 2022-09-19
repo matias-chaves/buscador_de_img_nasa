@@ -1,0 +1,18 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+.card-group{
+  margin-bottom: 2em;
+}
+
+.card-body{
+  text-align: justify;
+  overflow: auto;
+  height: 10rem;
+}
+
+.card-img-top{
+  height: 10rem;
+  object-fit: cover;
+}
